@@ -1,5 +1,5 @@
 ### Hi, I'm Chris 👋
-I'm a student and math enthusiast located in Cracov, Poland.
+I'm a student and math enthusiast located in Cracow, Poland.
 
 ### About me
 - 🎓 Computer Science student at AGH University of Science and Technology
