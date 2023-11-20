@@ -5,7 +5,7 @@ This summer I worked in the Beam Controls and Software departament at CERN.
 ### About me
 - 🎓 Computer Science student at AGH University of Science and Technology
 - :airplane: Leader of the software team at [AGH Solar Plane](http://solarplane.agh.edu.pl/)
-- :computer: Mainly use C++, Python, 
+- :computer: Mainly use C++, Python and I'm slowly getting used to rust
 - :heart: Interested in algorithms, pure mathematics, but also embeded systems
 - 📫 How to reach me: krpeczek@student.agh.edu.pl
 
