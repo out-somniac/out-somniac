@@ -1,11 +1,11 @@
-## Hi, I'm Chris 👋
-I'm a computer science student and math enthusiast located in Cracow, Poland. In the past I've worked in the [Beams Department at CERN](https://home.cern/) and now I'm working on software assisting data analysis of space radiation in satellite missions at [PSI](https://www.psi.ch/en).
+<h1 align="center">Hi, I'm Chris 👋</h1>
 
 ### About me
-- 🎓 Computer Science student at AGH University of Science and Technology in Cracow, Poland.
+- 🎓 Third year computer science student at AGH University of Science and Technology in Cracow, Poland.
 - 🛩 Leader of the software team at [AGH Solar Plane](http://solarplane.agh.edu.pl/)
+- ⚙ In the past I've worked in the [Beams Department at CERN](https://home.cern/)
 - ❤️ Interested in algorithms, pure mathematics, but also embeded systems
-- 📫 How to reach me: krpeczek@student.agh.edu.pl
+- 📫 How to reach me? Email: krpeczek@student.agh.edu.pl,  [linkedin](https://www.linkedin.com/in/krzysztof-p%C4%99czek-27806b26a)
 
 ### Currently working on
  - 🛰 Software assisting data analysis of space radiation in satellite missions at [PSI](https://www.psi.ch/en).
