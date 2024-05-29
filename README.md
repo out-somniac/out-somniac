@@ -15,6 +15,6 @@ This summer I worked in the Beam Controls and Software departament at CERN.
  - A small compiler for a course at AGH
 
 <div align='center'>
-  <img height='200' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/?username=out-somniac&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_rank=true'>
-  <img height='200' alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=out-somniac&langs_count=4&theme=catppuccin_mocha&layout=compact&hide_border=true&hide=jupyter%20notebook,PLpgSQL,TSQL,Java'>
+  <img height='200' width='45%' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/?username=out-somniac&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_rank=true'>
+  <img height='200' width='45%' alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=out-somniac&langs_count=4&theme=catppuccin_mocha&layout=compact&hide_border=true&hide=jupyter%20notebook,PLpgSQL,TSQL,Java'>
 </div>
