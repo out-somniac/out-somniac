@@ -12,7 +12,6 @@
  - 🤖 Autonomous Flight Controller for a STM32H7 with [AGH Solar Plane](http://solarplane.agh.edu.pl/)
  - 🗺️ Mapping large areas from a bird's eye view with a photos from a UAV with [AGH Solar Plane](http://solarplane.agh.edu.pl/)
  - 🧪 Simulating binary eutetic systems and their DSC curves
- - 💾 Bare metal operating system for the Raspberry Pi 4
 
 <div align='center'>
   <img height='200' width='45%' alt='GitHub Stats' src='https://github-readme-stats.vercel.app/api/?username=out-somniac&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_rank=true'>
