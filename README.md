@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Chris 👋</h1>
 
 ### About me
-- 🎓 Third year computer science student at AGH University of Science and Technology in Cracow, Poland.
-- 🛩 Leader of the software team at [AGH Solar Plane](http://solarplane.agh.edu.pl/)
+- 🎓 Fifth year computer science and data science student at AGH University of Science and Technology in Cracow, Poland.
+- 🛩 Former leader of the software team at [AGH Solar Plane](http://solarplane.agh.edu.pl/)
 - ⚙ In the past I've worked in the [Beams Department at CERN](https://home.cern/)
 - ❤️ Interested in algorithms, pure mathematics, but also embeded systems
 - 📫 How to reach me? Email: krpeczek@student.agh.edu.pl,  [linkedin](https://www.linkedin.com/in/krzysztof-p%C4%99czek-27806b26a)
